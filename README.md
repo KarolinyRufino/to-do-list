@@ -13,16 +13,16 @@
 <br> 
 
 <h3>Versão Desktop Dark Theme</h3>
-<img src="assets/image/todoListDark.png" alt="imagem da listagem de tarefa, versão desktop">
+<img src="assets/image/todoListDark.png" alt="imagem da listagem de tarefa, versão desktop dark theme">
 <hr>
 <br> 
 
 <h3>Versão Mobile</h3>
-<img src="assets/image/mobile" alt="imagem da listagem de tarefa, versão desktop">
+<img src="assets/image/mobile.png" alt="imagem da listagem de tarefa, versão mobile">
 <hr>
 <br> 
 
 <h3>Versão Mobile Dark Theme</h3>
-<img src="assets/image/mobileDarkTheme.png" alt="imagem da listagem de tarefa, versão desktop">
+<img src="assets/image/mobileDarkTheme.png" alt="imagem da listagem de tarefa, versão mobile dark theme">
 <hr>
 <br> 
