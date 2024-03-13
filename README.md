@@ -1,11 +1,9 @@
 # Lista de Tarefas
 <p>
-  Um todo list criado para estudar funcionalidades estudadas em curso. Uma lista de tarefas funcional, onde se pode criar, remover, e dar uma "checked" em suas tarefas ja concluídas, além de poder alternar entre dark e light theme
-</p>
-<p>
-   Ainda não tem uma funcionalidade que armazene essa lista.
-</p>
+  Meu mais recente projeto de estudo concentrou-se na criação de um Todo List, onde você pode criar, remover e marcar suas tarefas como concluídas, proporcionando uma experiência de produtividade sem complicações. Além disso, adicionei uma opção para alternar entre temas claro e escuro, para se adaptar ao seu ambiente de trabalho. 
 
+No entanto, vale ressaltar que, por enquanto, o aplicativo não possui uma funcionalidade de armazenamento.
+</p>
 
 <h3>Versão Desktop</h3>
 <img src="assets/image/todoList.png" alt="imagem da listagem de tarefa, versão desktop">
