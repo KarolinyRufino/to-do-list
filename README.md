@@ -1,7 +1,9 @@
 # Lista de Tarefas
 <p>
-  Um todo list criado para estudar funcionalidades estudadas em curso. Uma lista de tarefas funcional, onde se pode criar, remover, e dar uma "checked" em suas tarefas ja concluídas, além de poder alternar entre dark e light mode.
-  Ainda não tem a funcionalidade de armazenar essa lista.
+  Um todo list criado para estudar funcionalidades estudadas em curso. Uma lista de tarefas funcional, onde se pode criar, remover, e dar uma "checked" em suas tarefas ja concluídas, além de poder alternar entre dark e light theme
+</p>
+<p>
+   Ainda não tem a funcionalidade de armazenar essa lista.
 </p>
 <br>
 
