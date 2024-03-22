@@ -4,7 +4,7 @@
 
 No entanto, vale ressaltar que, por enquanto, o aplicativo não possui uma funcionalidade de armazenamento.
 
->> <a href="https://karolinyrufino.github.io/to-do-list/">Deploy</a>
+> <a href="https://karolinyrufino.github.io/to-do-list/">Deploy</a>
 </p>
 
 <h3>Versão Desktop</h3>
